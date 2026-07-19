@@ -1,7 +1,0 @@
-c:\users\hp\onedrive\pictures\documents\visual studio 2010\Projects\notepad_shiftI\notepad_shiftI\bin\Debug\notepad_shiftI.exe
-c:\users\hp\onedrive\pictures\documents\visual studio 2010\Projects\notepad_shiftI\notepad_shiftI\bin\Debug\notepad_shiftI.pdb
-c:\users\hp\onedrive\pictures\documents\visual studio 2010\Projects\notepad_shiftI\notepad_shiftI\obj\x86\Debug\notepad_shiftI.Form1.resources
-c:\users\hp\onedrive\pictures\documents\visual studio 2010\Projects\notepad_shiftI\notepad_shiftI\obj\x86\Debug\notepad_shiftI.Properties.Resources.resources
-c:\users\hp\onedrive\pictures\documents\visual studio 2010\Projects\notepad_shiftI\notepad_shiftI\obj\x86\Debug\notepad_shiftI.csproj.GenerateResource.Cache
-c:\users\hp\onedrive\pictures\documents\visual studio 2010\Projects\notepad_shiftI\notepad_shiftI\obj\x86\Debug\notepad_shiftI.exe
-c:\users\hp\onedrive\pictures\documents\visual studio 2010\Projects\notepad_shiftI\notepad_shiftI\obj\x86\Debug\notepad_shiftI.pdb
